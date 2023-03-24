@@ -39,8 +39,8 @@
 5. Abra `http://localhost:3333` para ver o projeto no navegador.
 ## :clapper: Tela(s) <a name="-telas"/></a>
 
-![Tela](https://github.com/ravarmes/crud-node-sequelize/blob/main/assets/crud-node-sequelize-1.png)
-![Tela](https://github.com/ravarmes/crud-node-sequelize/blob/main/assets/crud-node-sequelize-2.png)
+![Tela](https://github.com/ravarmes/crud-node-sequelize/blob/dependencies/assets/crud-node-sequelize-1.png)
+![Tela](https://github.com/ravarmes/crud-node-sequelize/blob/dependencies/assets/crud-node-sequelize-2.png)
 
 ## :link: Links <a name="-links"/></a>
 
