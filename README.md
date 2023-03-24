@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="RVM" src="https://github.com/ravarmes/crud-node-sequelize/tree/dependencies/assets/logo.jpg" />
+    <img alt="RVM" src="https://github.com/ravarmes/crud-node-sequelize/blob/dependencies/assets/logo.jpg" />
 </h1>
 
 <h3 align="center">
