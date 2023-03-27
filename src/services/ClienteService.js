@@ -39,7 +39,7 @@ class ClienteService {
   static async delete(req, res) {
     const { id } = req.params;
     var obj = await Cliente.findByPk(id);
-    obj = await obj.delete(req);
+    obj = await obj.destroy();
     return obj;
   }
 
