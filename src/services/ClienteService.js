@@ -19,7 +19,6 @@ class ClienteService {
     // Regra de negócio: não podem existir dois clientes com o mesmo cpf
     const objByCpf = await Cliente.findAll({where : {cpf: cpf}});
     if (objByCpf.length == 1){
-      console.log(JSON.stringify(objByCpf));
       throw new Error ("Já existe um cliente com este CPF");
     }
 
