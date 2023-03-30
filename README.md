@@ -44,7 +44,7 @@
 
 ## :link: Links <a name="-links"/></a>
 
-- [YouTube](https://youtube.com/playlist?list=PL-mvLy2ws8IJv6T44tb1vVGUSax101rQp) - Vídeos com explicação do código;
+- [YouTube](https://youtu.be/Ug7sMxKNGXE) - Vídeos com explicação do código;
 
 ## :memo: Licença <a name="-licenca"/></a>
 
